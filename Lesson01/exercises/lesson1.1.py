@@ -1,4 +1,3 @@
-#Object types
 #AngryAdmin -> https://https://angrysysops.com
 #In this lesson we will be work with numeric and string assigment, and learn how to check variable type 
 #int, float, str, type()
