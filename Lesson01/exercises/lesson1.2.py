@@ -1,4 +1,3 @@
-#Math operators
 #AngryAdmin -> https://https://angrysysops.com
 
 #TASK:
