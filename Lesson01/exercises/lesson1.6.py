@@ -1,4 +1,3 @@
-#Object types
 #AngryAdmin -> https://https://angrysysops.com
 
 #String repetition operator
