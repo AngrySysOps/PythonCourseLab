@@ -3,4 +3,4 @@
 
 number = 7
 
-# hint expected output : 49
+# HINT: expected output : 49
