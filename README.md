@@ -1,7 +1,8 @@
 # PythonCourseLab
 
-My Python Course 
-Welcome to my Pythoin course.
+ 
+Welcome to Angry Admin's Python course.
+
 It is very basic course as I am not the expert, but want to share my knowledge with community. 
 Visit angrysysops.com for toutorials
 Matterials will be added once course progress. 
